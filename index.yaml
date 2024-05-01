@@ -3,6 +3,16 @@ entries:
   digger-backend:
   - apiVersion: v2
     appVersion: v0.4.2
+    created: "2024-05-01T22:59:44.767489554Z"
+    description: A Helm chart for Kubernetes
+    digest: d2e7cec177e8dd73e70b3271f3034c01b87ca4e3eb6b7a1b8f52439a07a3747f
+    name: digger-backend
+    type: application
+    urls:
+    - https://github.com/dannysauer/digger-helm-charts/releases/download/digger-backend-0.1.4/digger-backend-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: v0.4.2
     created: "2024-04-27T04:11:46.87022906Z"
     description: A Helm chart for Kubernetes
     digest: 6806963c5b0c33deedf333d4477fab41323f0579148539aa14eb3364ff5308ab
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/dannysauer/digger-helm-charts/releases/download/digger-backend-0.1.3/digger-backend-0.1.3.tgz
     version: 0.1.3
-generated: "2024-04-27T04:11:46.870238247Z"
+generated: "2024-05-01T22:59:44.767497919Z"
